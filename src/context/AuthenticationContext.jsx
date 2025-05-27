@@ -47,7 +47,7 @@ const AuthenticationProvider = ({ children }) => {
 
   return (
     <AuthenticationContext.Provider value={{ user, saveUser, clearUser }}>
-      {!isAuthenticated ? <Posts /> : children}
+      {children}
     </AuthenticationContext.Provider>
   );
 };
