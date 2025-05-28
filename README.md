@@ -1,5 +1,3 @@
-`<a id="readme-top"></a>`
-
 <br />
 <div align="center">
   <h1 align="center">TECH CHALLENGE - FASE 3 - 4FSDT
@@ -51,20 +49,16 @@ A solução proposta consiste em uma plataforma para gestão de postagens educac
 ## Arquitetura
 
 <div align="center">
-<<<<<<< Updated upstream
   <img src="images/arquitetura.png" alt="Logo">
 </div>
 
 ## Como Começar
 
-=======
 <img src="./src/images/arquitetura.png" alt="Logo" >
 
 </div>
 
 ## Como Comecar
-
-> > > > > > > Stashed changes
 
 Este é um exemplo de como você pode dar instruções sobre como configurar seu projeto localmente.
 Para obter uma cópia local instalada e funcionando, siga estas etapas simples de exemplo.
@@ -74,8 +68,6 @@ Para obter uma cópia local instalada e funcionando, siga estas etapas simples d
 -   NodeJS
 -   Docker
 -   Git
-
-# <<<<<<< Updated upstream
 
 ## Guia de telas
 
@@ -124,8 +116,6 @@ Ao clicar, um modal é aberto, exibindo os dados do post. Podemos então, altera
 O segundo botão, é um botão para deletar o post. Clicando nele, podemos deletar o post desejado, para que não esteja mais disponível.
 
 <img src="./src/images/tela-admin-deletar.png" alt="Logo" >
-
-> > > > > > > Stashed changes
 
 ## Instalação
 
